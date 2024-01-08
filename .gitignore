@@ -1,0 +1,14 @@
+# keys 
+/s3-image-uploader_accessKeys.csv
+/.env
+
+# json 
+/package.json
+/package-lock.json
+
+# dependencies
+/node_modules
+
+/.DS_Store
+
+
